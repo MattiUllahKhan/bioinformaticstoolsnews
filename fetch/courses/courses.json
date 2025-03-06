@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1738487392327,
+    "title": "Why Biologists Should Learn to Code?",
+    "description": "Biology is continuously evolving and programming is not just for computer science students. Biologists can also learn it and get benefits of it , like big data summerization and analysis. So as far biology gets into experimental aspect of life it is essential for many biologists to get hands on practice thousands of tools developed in different programming languages like R , Python and Javascript.",
+    "image": "https://bioinformaticstools.news/reasons-for-biologists-to-cultivate-coding.webp",
+    "price": 10,
+    "percentOff": 100,
+    "date" : "03/02/2025",
+    "Updated" : "04/02/2025",
+    "sections": [
+      {
+        "type": "heading",
+        "title": "New Section",
+        "content": "Power Up Biology: Why and how Biologist can Learn and use Code?"
+      },
+      {
+        "type": "text",
+        "title": "New Section",
+        "content": "Biology is continuously evolving field in case of research and data analysis. In this course we will analyse the data more practically and every little step. As per my whole career I always opted for advancement and more automation compared to larger amout of tools available on internet. In the last step we will discuss about how to make pipelines in programming to automate the data."
+      },
+      {
+        "type": "heading",
+        "title": "New Section",
+        "content": "Power Up Your Biology: Why Every Biologist Should Learn to Code",
+        "level": "h2"
+      },
+      {
+        "type": "text",
+        "title": "New Section",
+        "content": "This question is answered in this video. But! you can also read answer in a paragraph below this video."
+      },
+      {
+        "type": "heading",
+        "title": "New Section",
+        "content": "Tutorial 1:",
+        "level": "h4"
+      },
+      {
+        "type": "video",
+        "title": "New Section",
+        "content": "",
+        "youtubeId": "OvM8EAyt2Zk?si=SFikYl1piqpjJlas"
+      },
+      {
+        "type": "heading",
+        "title": "New Section",
+        "content": "Code :",
+        "level": "h6"
+      },
+      {
+        "type": "code-python",
+        "title": "New Section",
+        "content": "def gc_content(sequence):\n    \"\"\"Calculate the GC content of a DNA sequence.\"\"\"\n    sequence = sequence.upper()\n    gc_count = sequence.count(\"G\") + sequence.count(\"C\")\n    return (gc_count / len(sequence)) * 100 if len(sequence) > 0 else 0\n\n# Example usage\ndna_sequence = \"AGCTATAGCGGCTAGC\"\ngc_percentage = gc_content(dna_sequence)\nprint(f\"GC Content: {gc_percentage:.2f}%\")\n"
+      },
+      {
+        "type": "code-html",
+        "title": "New Section",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Bioinformatics Hub</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            text-align: center;\n            background-color: #f4f4f4;\n        }\n        .container {\n            max-width: 800px;\n            margin: 50px auto;\n            background: white;\n            padding: 20px;\n            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);\n            border-radius: 10px;\n        }\n        h1 {\n            color: #2c3e50;\n        }\n        p {\n            color: #34495e;\n        }\n        .btn {\n            display: inline-block;\n            padding: 10px 20px;\n            margin-top: 20px;\n            background: #3498db;\n            color: white;\n            text-decoration: none;\n            border-radius: 5px;\n        }\n        .btn:hover {\n            background: #2980b9;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <h1>Welcome to Bioinformatics Hub</h1>\n        <p>Explore tools and resources for genome analysis, molecular dynamics, and computational biology.</p>\n        <a href=\"#\" class=\"btn\">Get Started</a>\n    </div>\n</body>\n</html>\n"
+      }
+    ],
+    "metaTitle": "Why Biologists Should Learn to Code - Matti Ullah Khan Niazi",
+    "metaDescription": "Programming makes ease of statistical data and automation of many tasks. Bio with coding knowledge makes it competitive for a person compared to theory person in large data handling and understanding Logics and workflows.",
+    "metaKeywords": [
+      "learn Programming for Biologists",
+      "Learn R for Biotechnology",
+      "Learn programming for Biology",
+      "Learn R by Matti Ullah Khan Niazi",
+      "Matti Ullah Khan Niazi"
+    ],
+    "twitterCard": "summary_large_image"
+  }
+]

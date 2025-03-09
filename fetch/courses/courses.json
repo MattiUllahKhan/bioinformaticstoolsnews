@@ -1,8 +1,8 @@
 [
   {
     "id": 1738487392327,
-    "title": "Why Biologists Should Learn to Code?",
-    "description": "Biology is continuously evolving and programming is not just for computer science students. Biologists can also learn it and get benefits of it , like big data summerization and analysis. So as far biology gets into experimental aspect of life it is essential for many biologists to get hands on practice thousands of tools developed in different programming languages like R , Python and Javascript. ",
+    "title": "Protein Structure Visualization and Editing Tools",
+    "description": "Protein structure editing and visualization tools are the main role toward ease in editing protein structures",
     "image": "https://raw.githubusercontent.com/MattiUllahKhan/bioinformaticstoolsnews/main/images/Protein_Structure_visualization_and_editing_tools.webp",
     "price": 10,
     "percentOff": 90,
@@ -53,13 +53,13 @@
         "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Bioinformatics Hub</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            text-align: center;\n            background-color: #f4f4f4;\n        }\n        .container {\n            max-width: 800px;\n            margin: 50px auto;\n            background: white;\n            padding: 20px;\n            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);\n            border-radius: 10px;\n        }\n        h1 {\n            color: #2c3e50;\n        }\n        p {\n            color: #34495e;\n        }\n        .btn {\n            display: inline-block;\n            padding: 10px 20px;\n            margin-top: 20px;\n            background: #3498db;\n            color: white;\n            text-decoration: none;\n            border-radius: 5px;\n        }\n        .btn:hover {\n            background: #2980b9;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <h1>Welcome to Bioinformatics Hub</h1>\n        <p>Explore tools and resources for genome analysis, molecular dynamics, and computational biology.</p>\n        <a href=\"#\" class=\"btn\">Get Started</a>\n    </div>\n</body>\n</html>\n"
       }
     ],
-    "metaTitle": "Why Biologists Should Learn to Code - Matti Ullah Khan Niazi",
-    "metaDescription": "Programming makes ease of statistical data and automation of many tasks. Bio with coding knowledge makes it competitive for a person compared to theory person in large data handling and understanding Logics and workflows.",
+    "metaTitle": "Protein Structure Visualization and Editing Tools",
+    "metaDescription": "Protein structure editing and visualization tools are the main role toward ease in editing protein structures",
     "metaKeywords": [
-      "learn Programming for Biologists",
-      "Learn R for Biotechnology",
-      "Learn programming for Biology",
-      "Learn R by Matti Ullah Khan Niazi",
+      "protein structure",
+      "Proteomics",
+      "Learn Proteomics",
+      "Learn Proteomics by Matti Ullah Khan Niazi",
       "Matti Ullah Khan Niazi"
     ],
     "twitterCard": "summary_large_image"

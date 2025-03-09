@@ -6,8 +6,8 @@
     "image": "https://raw.githubusercontent.com/MattiUllahKhan/bioinformaticstoolsnews/main/images/Noble_prize_winners_in_protein_structure_predicton_and_AI_Alphafold.webp",
     "price": 10,
     "percentOff": 100,
-    "date" : "03/02/2025",
-    "Updated" : "04/02/2025",
+    "date": "03/02/2025",
+    "Updated": "04/02/2025",
     "sections": [
       {
         "type": "heading",
@@ -30,6 +30,7 @@
         "title": "New Section",
         "content": "This question is answered in this video. But! you can also read answer in a paragraph below this video."
       }
-    ]
+    ],
+    "metaTitle": "hero"
   }
 ]

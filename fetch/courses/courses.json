@@ -62,7 +62,10 @@
       "Learn Proteomics by Matti Ullah Khan Niazi",
       "Matti Ullah Khan Niazi"
     ],
-    "twitterCard": "summary_large_image"
+    "twitterCard": "summary_large_image",
+    "seo": {
+      "metaTitle": "A"
+    }
   },
   {
     "id": 1741617014624,

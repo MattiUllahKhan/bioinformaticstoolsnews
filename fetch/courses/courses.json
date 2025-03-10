@@ -66,20 +66,5 @@
     "seo": {
       "metaTitle": "A"
     }
-  },
-  {
-    "id": 1741617014624,
-    "title": "New Course",
-    "description": "",
-    "image": "",
-    "price": 0,
-    "percentOff": 0,
-    "sections": [
-      {
-        "type": "image",
-        "title": "New Section",
-        "content": "https://raw.githubusercontent.com/MattiUllahKhan/bioinformaticstoolsnews/main/images/courses-bioinformatics-%26-biotechnology.webp"
-      }
-    ]
   }
 ]

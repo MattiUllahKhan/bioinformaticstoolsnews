@@ -64,7 +64,11 @@
     ],
     "twitterCard": "summary_large_image",
     "seo": {
-      "metaTitle": "Protein Structure Visualization and Editing Tools for Researchers"
+      "metaTitle": "Protein Structure Visualization and Editing Tools for Researchers",
+      "metaDescription": "Protein structure is three dimentional and softwares help in analyzing proteins protein and proteins ligands interactions. As for protein structure editing, manipulation, and visualization there are many softwares with their priorties.",
+      "canonical": "https://bioinformaticstools.news/courses/protein-structure-visualization-and-editing-tools-for-researchers",
+      "metaKeywords": "Protein Structure, protein visualization tools, protein structure tools, protein structure editing, protein structure manipulation, proteomics, bioinformatics, Matti Ullah Khan, bioinformaticstoolsnews",
+      "metaRobots": "index,follow"
     }
   }
 ]

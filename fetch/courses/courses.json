@@ -1,8 +1,8 @@
 [
   {
     "id": 1738487392327,
-    "title": "Protein Structure Visualization and Editing Tools",
-    "description": "Protein structure editing and visualization tools are the main role toward ease in editing protein structures",
+    "title": "Protein Structure Visualization and Editing Tools for Researchers",
+    "description": "Protein structure is three dimentional and softwares help in analyzing proteins protein and proteins ligands interactions. As for protein structure editing, manipulation, and visualization there are many softwares with their priorties.",
     "image": "https://raw.githubusercontent.com/MattiUllahKhan/bioinformaticstoolsnews/main/images/Protein_Structure_visualization_and_editing_tools.webp",
     "price": 10,
     "percentOff": 90,
@@ -64,7 +64,7 @@
     ],
     "twitterCard": "summary_large_image",
     "seo": {
-      "metaTitle": "A"
+      "metaTitle": "Protein Structure Visualization and Editing Tools for Researchers"
     }
   }
 ]

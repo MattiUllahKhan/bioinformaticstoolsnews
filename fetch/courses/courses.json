@@ -51,6 +51,11 @@
         "type": "code-html",
         "title": "New Section",
         "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Bioinformatics Hub</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            text-align: center;\n            background-color: #f4f4f4;\n        }\n        .container {\n            max-width: 800px;\n            margin: 50px auto;\n            background: white;\n            padding: 20px;\n            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);\n            border-radius: 10px;\n        }\n        h1 {\n            color: #2c3e50;\n        }\n        p {\n            color: #34495e;\n        }\n        .btn {\n            display: inline-block;\n            padding: 10px 20px;\n            margin-top: 20px;\n            background: #3498db;\n            color: white;\n            text-decoration: none;\n            border-radius: 5px;\n        }\n        .btn:hover {\n            background: #2980b9;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <h1>Welcome to Bioinformatics Hub</h1>\n        <p>Explore tools and resources for genome analysis, molecular dynamics, and computational biology.</p>\n        <a href=\"#\" class=\"btn\">Get Started</a>\n    </div>\n</body>\n</html>\n"
+      },
+      {
+        "type": "text",
+        "title": "New Section",
+        "content": ""
       }
     ],
     "metaTitle": "Protein Structure Visualization and Editing Tools",
@@ -69,6 +74,14 @@
       "canonical": "https://bioinformaticstools.news/courses/protein-structure-visualization-and-editing-tools-for-researchers",
       "metaKeywords": "Protein Structure, protein visualization tools, protein structure tools, protein structure editing, protein structure manipulation, proteomics, bioinformatics, Matti Ullah Khan, bioinformaticstoolsnews",
       "metaRobots": "index,follow"
-    }
+    },
+    "categories": [
+      {
+        "name": "Bioinformatics News",
+        "subCategories": [
+          "bioinformatics news, news, genomics"
+        ]
+      }
+    ]
   }
 ]
